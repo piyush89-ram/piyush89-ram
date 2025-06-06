@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Piyush Maniyar</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=piyush89-ram&label=Profile%20views&color=0e75b6&style=flat" alt="piyush89-ram" />
-</p>
+
 
 <!-- Fun GIF at the top -->
 <p align="center">
